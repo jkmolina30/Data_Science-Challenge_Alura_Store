@@ -1,7 +1,7 @@
 # Data_Science-Challenge_Alura_Store
 Practicando Python para Data Science: Challenge Alura Store
 
-#Alura Store - Análisis de Ventas
+# Alura Store - Análisis de Ventas
 
 Este proyecto de análisis de datos forma parte del Challenge de Ciencia de Datos de **Alura Latam**. El objetivo es ayudar al **señor Juan** a tomar una decisión estratégica sobre **cuál de sus 4 tiendas debería vender** para invertir en un nuevo negocio. Para ello, analizamos información clave como facturación, calificaciones de clientes, ubicación geográfica, métodos de pago y más.
 
@@ -28,10 +28,10 @@ Se evaluaron los siguientes puntos para tomar una decisión informada:
 - **Ranking de productos más vendidos**.
 - **Comparativa del costo promedio de envío** entre tiendas.
 
-##**Herramientas Utilizadas**
+## **Herramientas Utilizadas**
 
-Python
-Pandas
-Matplotlib
-Seaborn
-Jupyter Notebook
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
